@@ -20,14 +20,10 @@
 <a href="#-como-rodar-o-projecto">Como rodar o projecto</a>
 </p>
 <p align="center">
-    <img src ="./.github/print1.png" > 
-    <img src ="./.github/print2.png" > 
-    <img src ="./.github/print3.png" > 
-    <img src ="./.github/print4.png" > 
-    
+    <img src ="./.github/print1.png" >   
 </p>
 <p align="center">
-O <span>dt money</span> é aplicativo com a funcionalidades de um blog de assinatura como o medium que foi construindo no Bootcamp Ignite da rockeseat na trilha Reactjs,
+O <span>ignews</span> é aplicativo com a funcionalidades de um blog de assinatura como o medium que foi construindo no Bootcamp Ignite da rockeseat na trilha Reactjs,
 
 <!-- <h1 align="center"><a target="_blank" href="https://letmeask-3fc59.web.app/">Acessar Demonstração</a></h1> -->
 
@@ -41,7 +37,9 @@ O <span>dt money</span> é aplicativo com a funcionalidades de um blog de assina
 
 
 <p align="center">
-  <!-- <img src = "http://i.imgur.com/0iorG20.png" width=700> -->
+ <img src ="./.github/print2.png" > 
+    <img src ="./.github/print3.png" > 
+    <img src ="./.github/print4.png" > 
 </p>
 
 ---
