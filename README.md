@@ -6,10 +6,8 @@
 <h2 align="center"> 
 <img src="https://img.shields.io/badge/Status-Termidado-green">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/isaiasnhantumbo/ignews">
-
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/isaiasnhantumbo/ignews">
-
-<img alt="GitHub language count" src="https://img.shields.io/github/repo-size/isaiasnhantumbo/ignews">
+<!-- <img alt="GitHub language count" src="https://img.shields.io/github/repo-size/isaiasnhantumbo/ignews"> -->
 <img alt="GitHub language count" src="https://img.shields.io/github/license/isaiasnhantumbo/ignews">
 </h2>
 <br>
