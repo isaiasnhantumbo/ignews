@@ -1,34 +1,121 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br/>
+<p align="center">
+    <img src ="./public/images/logo.svg" width="400" > 
+</p>
 
-## Getting Started
+<h2 align="center"> 
+<img src="https://img.shields.io/badge/Status-Termidado-green">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/isaiasnhantumbo/ignews">
 
-First, run the development server:
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/top/isaiasnhantumbo/ignews">
+
+<img alt="GitHub language count" src="https://img.shields.io/github/repo-size/isaiasnhantumbo/ignews">
+<img alt="GitHub language count" src="https://img.shields.io/github/license/isaiasnhantumbo/ignews">
+</h2>
+<br>
+
+<p align="center">
+<a href="#-tecnologias-usadas">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-como-rodar-o-projecto">Como rodar o projecto</a>
+</p>
+<p align="center">
+    <img src ="./.github/print1.png" > 
+    <img src ="./.github/print2.png" > 
+    <img src ="./.github/print3.png" > 
+    <img src ="./.github/print4.png" > 
+    
+</p>
+<p align="center">
+O <span>dt money</span> é aplicativo com a funcionalidades de um blog de assinatura como o medium que foi construindo no Bootcamp Ignite da rockeseat na trilha Reactjs,
+
+<!-- <h1 align="center"><a target="_blank" href="https://letmeask-3fc59.web.app/">Acessar Demonstração</a></h1> -->
+
+## ✅ Features
+  - [x] Fazer pagamento com o Stripe
+  - [x] Fazer Login com o Github
+  - [x] Listar Postagens do Prismic
+  - [x] Guardar dados no FaunaDB
+  - [x] Gerar paginas estáticas
+
+
+
+<p align="center">
+  <!-- <img src = "http://i.imgur.com/0iorG20.png" width=700> -->
+</p>
+
+---
+## 🛠 Tecnologias usadas
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+
+- ReactJs
+- Nextjs
+- Typescript
+- SASS
+- Axios
+- Stripe
+- FaunaDB
+- Next-auth
+- React-icons
+
+
+
+---
+
+## ⚠ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+---
+## 🎲 Como rodar o projecto
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone este repositório
+$ git clone <https://github.com/isaiasnhantumbo/ignews.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd ignews
+
+# Abra a pasta no Visual Studio Code
+$ code .
+
+# Instale as dependência
+$ yarn
+
+# Configure as variáveis de ambiente do projeto
+
+# Execute a aplicação com o yarn
+$ yarn dev
+
+# O servidor iniciara na porta:3000 - acesse <http://localhost:3000>
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 📘 Licença
+Este projecto usa a  [MIT License](LICENSE).
+****
+<h1 align="center">
+👨🏽‍🏫 
+<br>
+Desenvolvido por
+<br>
+ Isaias Nhantumbo Junior
+</h1>
+</p>
+<h1 align="center"> 🤝 &nbsp;Vamos nos conectar ?👨 </h1>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p align="center">
+<a href="https://www.youtube.com/channel/UCOyeYkH0MwJ6RrXTcEFFdAQ?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/Channel-Isaias_Nhantumbo-blue?style=flat-square&logo=youtube"></a>
+<a href="https://www.linkedin.com/in/isaias-nhantumbo-junior-733bb619b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Isaias%20Nhantumbo%20Junior-green?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/isaias_nhantumbo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isaiasnhantumbo_-blue??style=for-the-badge&logo=instagram"></a>
+</p>
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
