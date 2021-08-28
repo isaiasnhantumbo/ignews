@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { GetStaticPaths, GetStaticProps } from 'next';
 import { useSession } from 'next-auth/client';
 import Head from 'next/head';
