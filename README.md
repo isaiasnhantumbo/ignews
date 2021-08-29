@@ -31,6 +31,7 @@ O <span>ignews</span> é aplicativo com a funcionalidades de um blog de assinatu
   - [x] Listar Postagens do Prismic
   - [x] Guardar dados no FaunaDB
   - [x] Gerar paginas estáticas
+  - [x] Testes com Jest 
 
 
 
@@ -55,6 +56,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - FaunaDB
 - Next-auth
 - React-icons
+- Jest
 
 
 
